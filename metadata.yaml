@@ -1,11 +1,16 @@
 _repo: Come-Into-My-Brain_65177
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65177-h/images/cover.jpg
 creator:
   author:
     agent_name: Blade, Alexander
     gutenberg_agent_id: '34630'
     url: http://www.gutenberg.org/2009/agents/34630
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65177#Come-Into-My-Brain
 gutenberg_issued: '2021-04-27'
 gutenberg_type: Text
 identifiers:
